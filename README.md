@@ -7,9 +7,9 @@ The project aims to solve the Kth Shortest Path Problem, where instead of just f
 
 ## Graph Datasets
 The implementation is tested with various real-world graphs:
-- Doctor Who
-- Enron Email
-- EU Email
+- Doctor Who https://github.com/manuel-dileo/doctor-who-dataset/tree/main
+- Enron Email https://snap.stanford.edu/data/email-Enron.html
+- EU Email https://snap.stanford.edu/data/email-EuAll.html
 
 ## Features
 - **MPI**: Utilizes the Message Passing Interface for distributed computing across multiple computing nodes.
